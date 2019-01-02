@@ -25,7 +25,7 @@ yo vuecli-3-mobile
 
 ## License
 
-MIT ©
+MIT © [shangzhen](https://github.com/BruceShang)
 
 
 [npm-image]: https://badge.fury.io/js/generator-vuecli-3-mobile.svg
